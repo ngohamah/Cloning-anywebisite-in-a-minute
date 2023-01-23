@@ -11,6 +11,6 @@
 - An html file called 'samplesite.py' would be in the directory
 - Open it and that would be your cloned site.
 
-###Note!
+## Note!
 This code might find some difficulties cloning some javascript pages. They're some little upgrades that need to be made.
 But you should try.
