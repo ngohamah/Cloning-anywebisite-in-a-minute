@@ -12,5 +12,5 @@
 - Open it and that would be your cloned site.
 
 ## Note!
-This code might find some difficulties cloning some javascript pages. They're some little upgrades that need to be made.
+This code might find some difficulties cloning some javascript pages and websites with a backend. They're some little upgrades that need to be made.
 But you should try.
