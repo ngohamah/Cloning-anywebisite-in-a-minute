@@ -1,5 +1,8 @@
 # Cloning-anywebisite-in-a-minute
 
+## Summary
+Perform web scraping to clone a website. A simple project exploring one of the application of webscraping. 
+
 ## Packages
 - Beautiful Soup (https://beautiful-soup-4.readthedocs.io/en/latest/)
 - Request (https://requests.readthedocs.io/en/latest/)
